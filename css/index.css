@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+.main-content {
+  max-width: 800px; /* Adjust as needed */
+  margin: 0 auto; /* Center the content */
+}
